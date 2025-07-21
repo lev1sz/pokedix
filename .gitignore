@@ -1,0 +1,4 @@
+# .gitignore for Pokedix project
+/[Bb]in
+/[Oo]bj
+.env
